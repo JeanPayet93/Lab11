@@ -4,6 +4,6 @@
 
 This exercise builds on JavaScript 01 by using localstorage to retain some data between sessions, so you can close the browser window and the data remains in place—for that user and their browser only.
 
-You can [view this page here](https://ctec3905.github.io/javascript_02_localstorage/).
+You can [view this page here](https://jeanpayet93.github.io/Lab11/).
 
 Jean
